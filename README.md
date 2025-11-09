@@ -20,8 +20,8 @@
     <header class="caratula">
       <h1>BioSticker</h1>
       <p>Dispositivo médico de monitoreo continuo de signos vitales</p>
-      <p>Autor: [Tu nombre]</p>
-      <p>Fecha: [Fecha de entrega]</p>
+      <p>Autor: [Miriam Torres Garcia]</p>
+      <p>Fecha: [31 de Octubre 2025]</p>
     </header>
 
     <!-- CONTADOR DE VISITAS -->
